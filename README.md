@@ -3,6 +3,8 @@
 
 FTCsnapbot is a modular system for FTC teams that allows compatability and seamless repairs and easy robot building.
 
+But not only is there a system for easy robot building, there's a system for easy code writing. More info will be given on release.
+
 ## Contributors
 
 ### Thank you to EVERYONE who has let me use their design(s) or made something for this project - 
